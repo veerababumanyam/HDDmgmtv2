@@ -94,6 +94,16 @@ bun run dev
   - Open `http://localhost:8080/` in your default browser
   - Start the dev server
 
+### Windows Production Preview (Build + Run)
+
+- Double-click `start-built.bat`
+- Or right-click `start-built.ps1` → Run with PowerShell
+- The script will:
+  - Install dependencies if needed
+  - Build the optimized production bundle
+  - Open `http://localhost:8080/`
+  - Start the Vite preview server
+
 The application will open at `http://localhost:8080` (or the port shown in terminal).
 
 ### Default Login
