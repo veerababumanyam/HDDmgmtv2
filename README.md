@@ -1,6 +1,20 @@
-# 🔧 Data Restore Hub - Management System
+<p align="center">
+  <img src="public/swaz.png" alt="Swaz Data Recovery Lab Logo" width="280" />
+</p>
 
-A modern, professional web application for managing data recovery services, invoices, estimates, and customer records. Built with React, TypeScript, and modern UI components.
+# 🔧 HDD Management v2 — Data Restore Hub
+
+A modern, professional web application for managing data recovery services, invoices, estimates, and customer records. Built with React, TypeScript, and a refined, accessible UI.
+
+<p align="center">
+  <strong>Fast · Secure · Accessible · Production-ready</strong>
+</p>
+
+<div align="center">
+
+[Getting Started](#-getting-started) · [Features](#-key-features) · [Usage](#-usage-guide) · [Tech Stack](#️-tech-stack) · [Development](#-development) · [Support](#-support)
+
+</div>
 
 ## ✨ Key Features
 
@@ -52,10 +66,10 @@ A modern, professional web application for managing data recovery services, invo
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/livestudio649-ship-it/data-restore-hub.git
+git clone https://github.com/veerababumanyam/HDDmgmtv2.git
 
 # Step 2: Navigate to the project directory
-cd data-restore-hub
+cd HDDmgmtv2
 
 # Step 3: Install dependencies
 npm install
@@ -77,7 +91,7 @@ The application will open at `http://localhost:8080` (or the port shown in termi
 ## 📁 Project Structure
 
 ```
-data-restore-hub/
+HDDmgmtv2/
 ├── public/                 # Static assets
 │   ├── swaz.png           # Default company logo
 │   ├── swaz-logo.png      # Alternative logo
@@ -196,3 +210,9 @@ For issues or questions, please contact the development team.
 ---
 
 **Built with ❤️ for Swaz Data Recovery Lab**
+
+---
+
+Helpful links:
+- Repository: https://github.com/veerababumanyam/HDDmgmtv2
+- Logo: `public/swaz.png`
