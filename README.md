@@ -16,6 +16,8 @@ A modern, professional web application for managing data recovery services, invo
 
 </div>
 
+> Windows users: Double-click `start-app.bat` (or right-click `start-app.ps1` → Run) to install and launch automatically.
+
 ## ✨ Key Features
 
 ### 📊 **Dashboard & Records Management**
@@ -81,6 +83,16 @@ npm run dev
 # or
 bun run dev
 ```
+
+### Windows One-Click Launch
+
+- Double-click `start-app.bat`
+- Or right-click `start-app.ps1` → Run with PowerShell
+- The script will:
+  - Detect Node.js (prompts if missing)
+  - Install dependencies if needed
+  - Open `http://localhost:8080/` in your default browser
+  - Start the dev server
 
 The application will open at `http://localhost:8080` (or the port shown in terminal).
 
